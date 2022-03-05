@@ -11,12 +11,12 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏻‍💼 Rafael Carrillo | 💻 Desarrollador web | 👨🏻‍🔧 Técnico informático | 🛸 Marbella , España <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>👨🏻‍💼 Rafael Carrillo | 💻 Desarrollador web | 👨🏻‍🔧 Técnico informático | 🛸 Marbella, España </h3>
 </div>
 
 <br />
 
-<h3 align="center">Lenguajes y herramientas...</h3>
+<h3 align="center">...Lenguajes y herramientas...</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" rel="noreferrer" alt="html" style="vertical-align:top; margin:4px">    
