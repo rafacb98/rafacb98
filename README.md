@@ -1,13 +1,13 @@
 <div align="center">
 <h2> ¡¡Hola que tal <𝚍esarrollador/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<p> <h3>Visitas</h3> <img src="https://komarev.com/ghpvc/?username=rafacb98&color=blue"
+<p><img src="https://komarev.com/ghpvc/?username=rafacb98&color=blue"
     alt="rafacb98" /> 
   </p>
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/rafael-carrillo-bonilla/" target="blank"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>&nbsp;&nbsp;
-<a href="https://rafacb98.github.io" target="blank"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flat_tick_icon.svg/768px-Flat_tick_icon.svg.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rafael-carrillo-bonilla/" target="blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>&nbsp;&nbsp;
+<a href="https://rafacb98.github.io" target="blank"><img height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flat_tick_icon.svg/768px-Flat_tick_icon.svg.png"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
