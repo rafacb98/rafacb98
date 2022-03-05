@@ -1,10 +1,11 @@
 <div align="center">
-<h2> ¡¡Hola que tal <colega/>👋! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> ¡¡Hola que tal <code><colega/></code>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="rafacb98.github.io"><img height="30" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rafael-carrillo-bonilla/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://rafacb98.github.io"><img height="30" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
@@ -13,10 +14,9 @@
 
 <br />
 
-### - Lenguajes y herramientas...
+<h3 align="center">Lenguajes y herramientas...</h3>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-Preguntame cualquier cosa <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>por aquí</b></a><br>
+Preguntame cualquier cosa <a href="https://github.com/rafacb98/rafacb98/issues/new"><b>por aquí</b></a><br>
 o envíame un <a href="mailto:rafaelcarrillobonilla@gmail.com"><b>correo</b></a>.
 
 <i>¡Nos vemos pronto!</i> 😊
