@@ -11,7 +11,7 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Rafael Carrillo | 💻 Desarrollador web | 🛸 Marbella , España <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏻‍💼 Rafael Carrillo | 💻 Desarrollador web | 👨🏻‍🔧 Técnico informático | 🛸 Marbella , España <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <br />
@@ -39,4 +39,5 @@ o envíame un <a href="mailto:rafaelcarrillobonilla@gmail.com"><b>correo</b></a>
 
 <i>¡Nos vemos pronto!</i> 😊
 
+<img src="img/animacion.svg" alt="footer" />
 </div>
