@@ -1,5 +1,5 @@
 <div align="center">
-<h2> ¡¡Hola que tal <𝚍esarrollador/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> ¡¡Hola que tal!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <p><img src="https://komarev.com/ghpvc/?username=rafacb98&color=blue"
     alt="rafacb98" /> 
   </p>
